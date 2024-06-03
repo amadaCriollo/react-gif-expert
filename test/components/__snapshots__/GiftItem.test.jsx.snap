@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifItem Debe hacer match con snapshot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="One Punch"
+      src="https://media1.giphy.com/media/VXJWhaO7afRe/giphy.gif?cid=b8569c3658it1cpzvqsuts9i8xwt8es7bz34w814w084d9oo&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+       
+      One Punch
+    </p>
+  </div>
+</div>
+`;
